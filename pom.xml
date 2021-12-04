@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Madhutech</name>
-	      <url>http://18.144.71.39:8085/madhutech/repository/maven-releases/</url>
+	      <url>http://54.177.242.255:8085/madhutech/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Madhutech </name>
-	      <url>http://18.144.71.39:8085/madhutech/repository/maven-snapshots/</url>
+	      <url>http://54.177.242.255:8085/madhutech/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
