@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Madhutech- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -20,8 +20,8 @@
 		Mithun Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-9666243693,
+		munnangi.msr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
