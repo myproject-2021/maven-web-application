@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Madhutech- Home Page</title>
+<title>Mmsrtechlogies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -30,7 +30,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Madhu Technologies - Consultant, Training, Development Center.</p>
+<p align=center>Mmsr Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
