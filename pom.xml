@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.101.125.149:9000/</sonar.host.url>
+		<sonar.host.url>http://54.219.129.163:9000/</sonar.host.url>
                 <sonar.login>b7390123954fb5e0c93a033fa08883262f79fab3</sonar.login>
 		<!--<sonar.password>admin</sonar.password>  -->
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Madhutech</name>
-	      <url>http://3.101.86.40:8085/madhutech/repository/maven-releases/</url>
+	      <url>http://54.215.116.17:8085/madhutech/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Madhutech </name>
-	      <url>http://3.101.86.40:8085/madhutech/repository/maven-snapshots/</url>
+	      <url>http://54.215.116.17:8085/madhutech/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
